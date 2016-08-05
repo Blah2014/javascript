@@ -46,3 +46,17 @@ function loadjscssfile(filename, filetype) {
         document.getElementsByTagName("head")[0].appendChild(fileref)
 }
 ```
+
+### Find the largest number contained in a JavaScript array
+```javascrip
+var array = [267, 306, 108];
+Math.max.apply(Math, array);
+Result: 306
+```
+
+### Find the smallest number contained in a JavaScript array
+```javascrip
+var array = [267, 306, 108];
+Math.min.apply(Math, array);
+Result: 108
+```
