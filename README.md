@@ -1,6 +1,27 @@
 # javascript
 javascript related stuff
 
+***Please donate if you are using this repo***
+
+***Note:*** If you found this project helpful please give this repo a star.
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=C2HFZWSUPV47Q" target="_blank">
+  <img src="https://raw.githubusercontent.com/Blah2014/phonegap-inmobi-plugin/gh-pages/images/BuymeaCoffee.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+</a>
+
+<a href="http://traderhub.info" target="_blank">
+  <img src="http://traderhub.info/images/AD.jpg" border="0" name="submit" alt="TraderHub - daily stock picks, market signals, stock picking service" />
+</a>
+
+### Index
+* [Load js and css files](#user-content-load-js-and-css-files)
+* [Find the largest number contained in a JavaScript array](#user-content-find-the-largest-number-contained-in-a-javascript-array)
+* [Find the smallest number contained in a JavaScript array](#user-content-find-the-smallest-number-contained-in-a-javascript-array)
+* [Angular 2 cli](#user-content-angular-2-cli)
+* [Angular 2 Mobile Toolkit](#user-content-angular-2-mobile-toolkit)
+* [html2canvas: Screenshots with JavaScript](#user-content-html2canvas-screenshots-with-javascript)
+
+### Load js and css files
 ```javascript
 function loadScript(url, callback)
 {
@@ -25,8 +46,6 @@ var myPrettyCode = function() {
 };
 
 loadScript("my_lovely_script.js", myPrettyCode);
-
-
 
 function loadjscssfile(filename, filetype) {
     if (filetype == "js") { //if filename is a external JavaScript file
@@ -60,3 +79,12 @@ var array = [267, 306, 108];
 Math.min.apply(Math, array);
 Result: 108
 ```
+
+### Angular 2 cli
+[Angular 2 cli](https://cli.angular.io/)
+
+### Angular 2 Mobile Toolkit
+[Angular 2 Mobile Toolkit](https://mobile.angular.io/)
+
+### html2canvas: Screenshots with JavaScript
+[html2canvas](https://html2canvas.hertzen.com/)
