@@ -20,6 +20,7 @@ javascript related stuff
 * [Angular 2 cli](#user-content-angular-2-cli)
 * [Angular 2 Mobile Toolkit](#user-content-angular-2-mobile-toolkit)
 * [html2canvas: Screenshots with JavaScript](#user-content-html2canvas-screenshots-with-javascript)
+* [GPU and Web UI Performance: Building an Endless 60fps Scroller](#user-content-gpu-and-web-ui-performance-building-an-endless-60fps-scroller)
 
 ### Load js and css files
 ```javascript
@@ -88,3 +89,6 @@ Result: 108
 
 ### html2canvas: Screenshots with JavaScript
 [html2canvas](https://html2canvas.hertzen.com/)
+
+### GPU and Web UI Performance: Building an Endless 60fps Scroller
+[GPU and Web UI Performance: Building an Endless 60fps Scroller](https://www.youtube.com/watch?v=VAOPi9C8674)
