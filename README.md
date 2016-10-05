@@ -21,6 +21,7 @@ javascript related stuff
 * [Angular 2 Mobile Toolkit](#user-content-angular-2-mobile-toolkit)
 * [html2canvas: Screenshots with JavaScript](#user-content-html2canvas-screenshots-with-javascript)
 * [GPU and Web UI Performance: Building an Endless 60fps Scroller](#user-content-gpu-and-web-ui-performance-building-an-endless-60fps-scroller)
+* [Mapzen: is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world](#user-content-mapzen)
 
 ### Load js and css files
 ```javascript
@@ -94,3 +95,6 @@ Result: 108
 [GPU and Web UI Performance: Building an Endless 60fps Scroller](https://www.youtube.com/watch?v=VAOPi9C8674)
 
 [scrollerjs.com](http://scrollerjs.com/)
+
+### Mapzen
+[Mapzen is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world](https://mapzen.com/)
