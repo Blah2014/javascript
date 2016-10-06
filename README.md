@@ -23,6 +23,7 @@ javascript related stuff
 * [GPU and Web UI Performance: Building an Endless 60fps Scroller](#user-content-gpu-and-web-ui-performance-building-an-endless-60fps-scroller)
 * [Mapzen: is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world](#user-content-mapzen)
 * [Simple Statistics: is a JavaScript library that implements statistical methods](#user-content-simple-statistics)
+* [regression.js: linear, exponential, logarithmic, power and polynomial trends](#user-content-regressionjs)
 
 ### Load js and css files
 ```javascript
@@ -102,3 +103,6 @@ Result: 108
 
 ### Simple Statistics
 [Simple Statistics is a JavaScript library that implements statistical methods](http://simplestatistics.org/)
+
+### regression.js
+[regression.js](https://github.com/Tom-Alexander/regression-js)
