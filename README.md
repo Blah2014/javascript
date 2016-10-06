@@ -22,6 +22,7 @@ javascript related stuff
 * [html2canvas: Screenshots with JavaScript](#user-content-html2canvas-screenshots-with-javascript)
 * [GPU and Web UI Performance: Building an Endless 60fps Scroller](#user-content-gpu-and-web-ui-performance-building-an-endless-60fps-scroller)
 * [Mapzen: is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world](#user-content-mapzen)
+* [Simple Statistics: is a JavaScript library that implements statistical methods](#user-content-simple-statistics)
 
 ### Load js and css files
 ```javascript
@@ -98,3 +99,6 @@ Result: 108
 
 ### Mapzen
 [Mapzen is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world](https://mapzen.com/)
+
+### Simple Statistics
+[Simple Statistics is a JavaScript library that implements statistical methods](http://simplestatistics.org/)
