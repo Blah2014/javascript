@@ -24,6 +24,7 @@ javascript related stuff
 * [Mapzen: is an open, sustainable, and accessible mapping platform. Our tools let you display, search, and navigate your world](#user-content-mapzen)
 * [Simple Statistics: is a JavaScript library that implements statistical methods](#user-content-simple-statistics)
 * [regression.js: linear, exponential, logarithmic, power and polynomial trends](#user-content-regressionjs)
+* [Live Code Session - Supercharged](#user-content-live-code-session---supercharged)
 
 ### Load js and css files
 ```javascript
@@ -106,3 +107,7 @@ Result: 108
 
 ### regression.js
 [regression.js](https://github.com/Tom-Alexander/regression-js)
+
+### Live Code Session - Supercharged
+[Supercharged with Paul Lewis & Surma](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
+[UI Elements: A collection of UI element samples written with vanilla web platform features](https://github.com/GoogleChrome/ui-element-samples)
