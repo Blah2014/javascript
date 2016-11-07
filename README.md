@@ -132,3 +132,5 @@ Thorin.js is the Node.js framework that you can use to easily:
 * Extend the core functionality with use-case specific plugins
 * Integrate with sconfig.io's discovery system for microservice discovery & authorization
 * And much much more.
+
+[Thorin.js](https://thorinjs.com/)
