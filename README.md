@@ -26,6 +26,7 @@ javascript related stuff
 * [regression.js: linear, exponential, logarithmic, power and polynomial trends](#user-content-regressionjs)
 * [Live Code Session - Supercharged](#user-content-live-code-session---supercharged)
 * [hello.js: A client-side JavaScript SDK for authenticating with OAuth](#user-content-hellojs)
+* [Thorin.js: is the Node.js framework](#user-content-thorinjs)
 
 ### Load js and css files
 ```javascript
@@ -118,3 +119,16 @@ Result: 108
 A client-side JavaScript SDK for authenticating with OAuth2 (and OAuth1 with a oauth proxy) web services and querying their REST APIs.
 
 [hello.js](https://adodson.com/hello.js/)
+
+### Thorin.js
+Thorin.js is the Node.js framework that you can use to easily:
+* Boot up a pre-configured web-server, sanitize and validate all your input
+* Render static HTML files using a templating engine, compile your less & sass styles
+* Integrate centralized logging with loglet.io
+* Use secure sessions in your requests, stored in redis, MySQL or file system
+* Use already written components for some wide-spread services (Redis, ElasticSearch, Sequelize)
+* Use a centralized dispatcher to handle your redux actions via HTTP or WebSockets
+* Schedule recurring tasks that may use a redis queue to process events
+* Extend the core functionality with use-case specific plugins
+* Integrate with sconfig.io's discovery system for microservice discovery & authorization
+* And much much more.
