@@ -25,7 +25,7 @@ javascript related stuff
 * [Simple Statistics: is a JavaScript library that implements statistical methods](#user-content-simple-statistics)
 * [regression.js: linear, exponential, logarithmic, power and polynomial trends](#user-content-regressionjs)
 * [Live Code Session - Supercharged](#user-content-live-code-session---supercharged)
-* [hello.js](#user-content-hellojs)
+* [hello.js: A client-side JavaScript SDK for authenticating with OAuth](#user-content-hellojs)
 
 ### Load js and css files
 ```javascript
