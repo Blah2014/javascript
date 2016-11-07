@@ -25,6 +25,7 @@ javascript related stuff
 * [Simple Statistics: is a JavaScript library that implements statistical methods](#user-content-simple-statistics)
 * [regression.js: linear, exponential, logarithmic, power and polynomial trends](#user-content-regressionjs)
 * [Live Code Session - Supercharged](#user-content-live-code-session---supercharged)
+* [hello.js](#user-content-hellojs)
 
 ### Load js and css files
 ```javascript
@@ -112,3 +113,8 @@ Result: 108
 [YouTube: Supercharged with Paul Lewis & Surma](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr)
 
 [UI Elements: A collection of UI element samples written with vanilla web platform features](https://github.com/GoogleChrome/ui-element-samples)
+
+### hello.js
+A client-side JavaScript SDK for authenticating with OAuth2 (and OAuth1 with a oauth proxy) web services and querying their REST APIs.
+
+[hello.js](https://adodson.com/hello.js/)
