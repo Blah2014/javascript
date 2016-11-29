@@ -27,6 +27,7 @@ javascript related stuff
 * [Live Code Session - Supercharged](#user-content-live-code-session---supercharged)
 * [hello.js: A client-side JavaScript SDK for authenticating with OAuth](#user-content-hellojs)
 * [Thorin.js: is the Node.js framework](#user-content-thorinjs)
+* [Check if element is visible after scrolling](#user-content-check-if-element-is-visible-after-scrolling)
 
 ### Load js and css files
 ```javascript
@@ -134,3 +135,14 @@ Thorin.js is the Node.js framework that you can use to easily:
 * And much much more.
 
 [Thorin.js](https://thorinjs.com/)
+
+### Check if element is visible after scrolling
+```javascript
+function isScrolledIntoView(el) {
+    var elemTop = el.getBoundingClientRect().top;
+    var elemBottom = el.getBoundingClientRect().bottom;
+
+    var isVisible = (elemTop >= 0) && (elemBottom <= window.innerHeight);
+    return isVisible;
+}
+```
