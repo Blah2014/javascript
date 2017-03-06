@@ -28,6 +28,7 @@ javascript related stuff
 * [hello.js: A client-side JavaScript SDK for authenticating with OAuth](#user-content-hellojs)
 * [Thorin.js: is the Node.js framework](#user-content-thorinjs)
 * [Check if element is visible after scrolling](#user-content-check-if-element-is-visible-after-scrolling)
+
 ##### OCR: Optical character recognition
 * [Ocrad.js Optical Character Recognition in JS](#user-content-ocradjs-optical-character-recognition-in-js)
 * [Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine](#user-content-tesseractjs-is-a-pure-javascript-port-of-the-popular-tesseract-ocr-engine)
