@@ -33,6 +33,9 @@ javascript related stuff
 * [Ocrad.js Optical Character Recognition in JS](#user-content-ocradjs-optical-character-recognition-in-js)
 * [Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine](#user-content-tesseractjs-is-a-pure-javascript-port-of-the-popular-tesseract-ocr-engine)
 
+##### Bootstrap 3
+* [Bootstrap 3 Datepicker](#user-content-bootstrap-3-datepicker)
+
 ### Load js and css files
 ```javascript
 function loadScript(url, callback)
@@ -156,3 +159,6 @@ function isScrolledIntoView(el) {
 
 ### Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine
 [Tesseract.js](http://tesseract.projectnaptha.com/)
+
+### Bootstrap 3 Datepicker
+[Datepicker](https://eonasdan.github.io/bootstrap-datetimepicker/)
