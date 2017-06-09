@@ -28,7 +28,7 @@ javascript related stuff
 * [hello.js: A client-side JavaScript SDK for authenticating with OAuth](#user-content-hellojs)
 * [Thorin.js: is the Node.js framework](#user-content-thorinjs)
 * [Check if element is visible after scrolling](#user-content-check-if-element-is-visible-after-scrolling)
-* [Propeller.js: JavaScript library to rotate elements with mouse or touch gestures](#)
+* [Propeller.js: JavaScript library to rotate elements with mouse or touch gestures](#user-content-propellerjs-javascript-library-to-rotate-elements-with-mouse-or-touch-gestures-supports-inertia-and-stepwise-rotation-optimized-for-better-performance)
 
 ##### OCR: Optical character recognition
 * [Ocrad.js Optical Character Recognition in JS](#user-content-ocradjs-optical-character-recognition-in-js)
