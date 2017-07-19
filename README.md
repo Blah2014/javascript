@@ -39,6 +39,7 @@ javascript related stuff
 
 ##### Table with fixed headers and first column
 * [Codepen example](https://codepen.io/MaxArt2501/pen/qLCmE)
+* [fixedTableRC](https://github.com/meetselva/fixed-table-rows-cols)
 
 ### Load js and css files
 ```javascript
