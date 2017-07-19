@@ -37,6 +37,9 @@ javascript related stuff
 ##### Bootstrap 3
 * [Bootstrap 3 Datepicker](#user-content-bootstrap-3-datepicker)
 
+##### Table with fixed headers and first column
+* [Codepen example](https://codepen.io/MaxArt2501/pen/qLCmE)
+
 ### Load js and css files
 ```javascript
 function loadScript(url, callback)
