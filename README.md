@@ -9,10 +9,6 @@ javascript related stuff
   <img src="https://raw.githubusercontent.com/Blah2014/phonegap-inmobi-plugin/gh-pages/images/BuymeaCoffee.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
 </a>
 
-<a href="http://traderhub.info" target="_blank">
-  <img src="http://traderhub.info/images/AD.jpg" border="0" name="submit" alt="TraderHub - daily stock picks, market signals, stock picking service" />
-</a>
-
 ### Index
 * [Load js and css files](#user-content-load-js-and-css-files)
 * [Find the largest number contained in a JavaScript array](#user-content-find-the-largest-number-contained-in-a-javascript-array)
