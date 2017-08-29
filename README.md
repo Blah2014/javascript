@@ -37,6 +37,10 @@ javascript related stuff
 * [Codepen example](https://codepen.io/MaxArt2501/pen/qLCmE)
 * [fixedTableRC](https://github.com/meetselva/fixed-table-rows-cols)
 
+##### Drag and drop
+* [Dragula.js: Drag and drop so simple it hurts](https://github.com/bevacqua/dragula)
+* [dom-autoscroller.js](https://github.com/hollowdoor/dom_autoscroller)
+
 ### Load js and css files
 ```javascript
 function loadScript(url, callback)
