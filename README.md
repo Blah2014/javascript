@@ -26,6 +26,9 @@ javascript related stuff
 * [Check if element is visible after scrolling](#user-content-check-if-element-is-visible-after-scrolling)
 * [Propeller.js: JavaScript library to rotate elements with mouse or touch gestures](#user-content-propellerjs-javascript-library-to-rotate-elements-with-mouse-or-touch-gestures-supports-inertia-and-stepwise-rotation-optimized-for-better-performance)
 * [Stickybits is a lightweight alternative to position: sticky polyfills. It works perfectly for things like sticky headers.](#user-content-stickybits-is-a-lightweight-alternative-to-position-sticky-polyfills-it-works-perfectly-for-things-like-sticky-headers)
+* [Sortable](https://github.com/RubaXa/Sortable)
+* [Interact.js: drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
+* [Gridster.js](https://github.com/dsmorse/gridster.js)
 
 ##### OCR: Optical character recognition
 * [Ocrad.js Optical Character Recognition in JS](#user-content-ocradjs-optical-character-recognition-in-js)
