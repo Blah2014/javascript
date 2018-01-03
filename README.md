@@ -30,6 +30,7 @@ javascript related stuff
 * [Interact.js: drag and drop, resizing and multi-touch gestures with inertia and snapping](https://github.com/taye/interact.js)
 * [Gridster.js](https://github.com/dsmorse/gridster.js)
 * [Bowser: A Browser detector](https://github.com/lancedikson/bowser)
+* [Idle Logout](#idle-logout)
 
 ##### OCR: Optical character recognition
 * [Ocrad.js Optical Character Recognition in JS](#user-content-ocradjs-optical-character-recognition-in-js)
