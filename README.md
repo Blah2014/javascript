@@ -33,6 +33,7 @@ javascript related stuff
 * [Idle Logout](#idle-logout)
 * [Shuffle: Categorize, sort, and filter a responsive grid of items](https://github.com/Vestride/Shuffle)
 * [Filterizr: is a jQuery plugin that sorts, shuffles and applies stunning filters over responsive galleries using CSS3 transitions and custom CSS effects](https://github.com/giotiskl/Filterizr)
+* [JavaScript library of crypto standards](https://github.com/brix/crypto-js)
 
 ##### OCR: Optical character recognition
 * [Ocrad.js Optical Character Recognition in JS](#user-content-ocradjs-optical-character-recognition-in-js)
