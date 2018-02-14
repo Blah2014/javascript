@@ -34,7 +34,10 @@ javascript related stuff
 * [Shuffle: Categorize, sort, and filter a responsive grid of items](https://github.com/Vestride/Shuffle)
 * [Filterizr: is a jQuery plugin that sorts, shuffles and applies stunning filters over responsive galleries using CSS3 transitions and custom CSS effects](https://github.com/giotiskl/Filterizr)
 * [JavaScript library of crypto standards](https://github.com/brix/crypto-js)
+
+### Ripple effects
 * [ripplet.js: Fully controllable vanilla-js material design ripple effect generator](https://github.com/luncheon/ripplet.js)
+* [js-effect-ripple: Material Design Ripple effect in pure JS & CSS](https://github.com/dai-siki/js-effect-ripple)
 
 ##### OCR: Optical character recognition
 * [Ocrad.js Optical Character Recognition in JS](#user-content-ocradjs-optical-character-recognition-in-js)
